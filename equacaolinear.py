@@ -9,4 +9,4 @@ def separa_fatores(equacao):
   print("valor de x=",x)
 
 
-separa_fatores(input("digite a equa\t").lower().replace(" ",""))
+separa_fatores(input("digite a equação\n").lower().replace(" ",""))
